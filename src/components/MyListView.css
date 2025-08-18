@@ -1,0 +1,8 @@
+.mylist-view {
+  padding: 20px;
+}
+.anime-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}

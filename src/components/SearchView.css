@@ -1,0 +1,16 @@
+.search-view {
+  padding: 20px;
+}
+.search-view input {
+  width: 100%;
+  max-width: 500px;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+.anime-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}

@@ -1,0 +1,16 @@
+.app {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+nav {
+  margin-bottom: 20px;
+}
+nav a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #007bff;
+}
+nav a:hover {
+  text-decoration: underline;
+}
